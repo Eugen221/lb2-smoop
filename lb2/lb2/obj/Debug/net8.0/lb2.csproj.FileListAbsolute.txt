@@ -1,0 +1,14 @@
+C:\Users\jekso\source\repos\lb2\lb2\bin\Debug\net8.0\lb2.exe
+C:\Users\jekso\source\repos\lb2\lb2\bin\Debug\net8.0\lb2.deps.json
+C:\Users\jekso\source\repos\lb2\lb2\bin\Debug\net8.0\lb2.runtimeconfig.json
+C:\Users\jekso\source\repos\lb2\lb2\bin\Debug\net8.0\lb2.dll
+C:\Users\jekso\source\repos\lb2\lb2\bin\Debug\net8.0\lb2.pdb
+C:\Users\jekso\source\repos\lb2\lb2\obj\Debug\net8.0\lb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jekso\source\repos\lb2\lb2\obj\Debug\net8.0\lb2.AssemblyInfoInputs.cache
+C:\Users\jekso\source\repos\lb2\lb2\obj\Debug\net8.0\lb2.AssemblyInfo.cs
+C:\Users\jekso\source\repos\lb2\lb2\obj\Debug\net8.0\lb2.csproj.CoreCompileInputs.cache
+C:\Users\jekso\source\repos\lb2\lb2\obj\Debug\net8.0\lb2.dll
+C:\Users\jekso\source\repos\lb2\lb2\obj\Debug\net8.0\refint\lb2.dll
+C:\Users\jekso\source\repos\lb2\lb2\obj\Debug\net8.0\lb2.pdb
+C:\Users\jekso\source\repos\lb2\lb2\obj\Debug\net8.0\lb2.genruntimeconfig.cache
+C:\Users\jekso\source\repos\lb2\lb2\obj\Debug\net8.0\ref\lb2.dll
